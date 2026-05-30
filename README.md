@@ -118,7 +118,7 @@ date      # Current date and time
 ---
 
 ## Video Explainer
-[INSERT VIDEO LINK HERE]
+https://drive.google.com/file/d/1GgXFf4MDTzKpD_v-vUnyUEy3WDg-ehGd/view?usp=drive_link
 
 ---
 
